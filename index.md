@@ -2,7 +2,7 @@
 
 **Name:** Alexander Takamoto  
 **Email:** atakamoto@ucsd.edu  
-**Section:** Efficient AI (D38)  
+**Section:** Efficient AI: Algorithms and Systems for Foundation Models (D38)  
 **Mentor:** Zhijian Liu
 
 ## Quarter 2 Project Brainstorming
